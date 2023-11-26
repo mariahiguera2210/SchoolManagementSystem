@@ -35,5 +35,4 @@ try {
 }
     academicManager.showList();
     }
-
 }
